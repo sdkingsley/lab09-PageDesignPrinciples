@@ -18,7 +18,7 @@ h2{
 	font-size: 36px;
 }
 h3{
-	font-family: 'Open Sans' bold;
+	font-family: 'Open Sans';
 	color: #C31887;
 	font-size: 30px;
 }
@@ -54,6 +54,7 @@ a{
 	width: 200px;
 	height: 200px;
 	text-align: center;
+	vertical-align: top;
 } 
 #rate2{
 	background-color: #EFCE4A;
@@ -88,6 +89,7 @@ a{
 #cast{
 	width: 200px;
 	height: 200px;
+	vertical-align: top;
 }
 #BoxOff{
 	width: 600px;
@@ -132,4 +134,5 @@ a{
 }
 .bottomCon{
 	display: inline-block;
+	margin-top: -20px;
 }
