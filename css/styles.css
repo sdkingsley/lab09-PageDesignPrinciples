@@ -96,9 +96,6 @@ div{
 #summ2{
 	width: 550px;
 }
-.menuBar{
-	align-content: right;
-}
 
 /*	****************************************
 	Modules (reusable classes)
@@ -116,7 +113,6 @@ div{
 .main-menu{
 	text-align: right;
 	background-color: #C31887;
-	justify-content: flex-end;
 }
 
 .imag img{
